@@ -10,10 +10,9 @@ public class Consumer {
             File myObj = new File("score.txt");
             Scanner myReader = new Scanner(myObj);
             while (myReader.hasNextLine()) {
-                String data = myReader.nextLine();
-                lastLine = data;
+                lastLine = myReader.nextLine();
             }
-            System.out.println();
+            System.out.println(lastLine);
             myReader.close();
         } catch (FileNotFoundException e) {
             System.out.println("An error occurred.");
