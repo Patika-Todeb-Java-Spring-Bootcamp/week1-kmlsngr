@@ -12,6 +12,6 @@ Task : Create a Immutable Car class that contains attributes:
 - capacity (int)
 - prodDate (date)
 - km (int)
-- color (Color)
+- color (Color) <br/>
 Output:
 ![alt text](https://img.onl/NZ1Eas)
