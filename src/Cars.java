@@ -26,6 +26,18 @@ public final class Cars {
         this.carModel = carModel;
     }
 
+    @Override
+    public  String toString() {
+        return
+                "Car Model=" + carModel +
+                ", year=" + year +
+                ", capacity=" + capacity +
+                ", production Date=" + prodDate +
+                ", km=" + km +
+                ", color=" + color +
+                '}';
+    }
+
     public Cars.model getCarModel() {
         return this.carModel;
     }
