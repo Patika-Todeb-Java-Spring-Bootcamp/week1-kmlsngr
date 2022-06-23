@@ -21,7 +21,7 @@ Output:
 The 2nd assignment is in the HW2 branch. <br/>
 <br/>
 Task : Create two project under a main maven project which have seperate tasks of each project. <br/>
-Producer project will produce a Soccer Score by taking the values from the user as input and write it to a score.txt file
+Producer project will produce a Soccer Score by taking the values from the user as input and write it to a score.txt file <br/>
 Consumer project will read the score.txt file that contains Soccer Score that writen by Producer and output it on console.
 <br/>
 Output:
