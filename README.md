@@ -28,3 +28,17 @@ Output:<br/>
 ![image](https://user-images.githubusercontent.com/37750540/175273243-5efe18f3-538a-4b72-97b4-a0542be92d10.png) <br/>
 Output:<br/>
 ![image](https://user-images.githubusercontent.com/37750540/175273988-63f3cd78-3ceb-44af-bd86-ed87300001ea.png)
+##
+##
+## HomeWork 3
+The 3nd assignment is in the HW3 branch. <br/>
+<br/>
+Task : A thread class project that write and read soccer score to text file from text file. <br/>
+Producer project will produce a Soccer Score by taking the values from the user as input and write it to a score.txt file <br/>
+Consumer project will read the score.txt file that contains Soccer Score that writen by Producer and output it on console.<br/>
+Control the order by thread
+<br/>
+Output:<br/>
+![image](https://user-images.githubusercontent.com/37750540/175273243-5efe18f3-538a-4b72-97b4-a0542be92d10.png) <br/>
+Output:<br/>
+
