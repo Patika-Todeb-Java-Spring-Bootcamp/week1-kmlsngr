@@ -38,7 +38,6 @@ Producer project will produce a Soccer Score by taking the values from the user 
 Consumer project will read the score.txt file that contains Soccer Score that writen by Producer and output it on console.<br/>
 Control the order by thread
 <br/>
-Output:<br/>
-![image](https://user-images.githubusercontent.com/37750540/175273243-5efe18f3-538a-4b72-97b4-a0542be92d10.png) <br/>
-Output:<br/>
+Output:<br/>![image](https://user-images.githubusercontent.com/37750540/175502014-27a396c7-85b1-4620-9c1a-bcde5b375e6c.png)
+
 
