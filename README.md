@@ -31,7 +31,7 @@ Output:<br/>
 ##
 ##
 ## HomeWork 3
-The 3nd assignment is in the HW3 branch. <br/>
+The 3rd assignment is in the HW3 branch. <br/>
 <br/>
 Task : A thread class project that write and read soccer score to text file from text file. <br/>
 Producer project will produce a Soccer Score by taking the values from the user as input and write it to a score.txt file <br/>
